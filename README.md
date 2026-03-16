@@ -1,4 +1,4 @@
-# Ecommerce-Customer-Behavior-Analysis
+# 🛒 Data Familiarization & Quality Check of E‑Commerce Dataset
 Data Analysis Project using Python
 
 This project focuses on analyzing customer behavior in an e-commerce platform using Python. The dataset was cleaned and explored to understand customer demographics, purchasing patterns, engagement levels, and churn behavior. Through exploratory data analysis, key insights were identified, such as the impact of customer engagement on purchases, the effect of cart abandonment on sales, and factors contributing to customer churn. Based on these insights, business recommendations were provided to improve customer retention, enhance user experience, and increase overall revenue.
