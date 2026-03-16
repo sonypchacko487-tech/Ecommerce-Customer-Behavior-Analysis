@@ -1,6 +1,5 @@
 # Ecommerce-Customer-Behavior-Analysis
 Data Analysis Project using Python
-# 🛒 E-Commerce Customer Behavior Analysis
 
 ## 📊 Project Overview
 This project analyzes customer behavior in an e-commerce platform using Python.
